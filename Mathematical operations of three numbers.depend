@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549140666 source:c:\users\sinic\desktop\Программы на Си\mathematical operations of three numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
